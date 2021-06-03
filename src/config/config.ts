@@ -9,6 +9,6 @@ export const config = {
   'aws_media_bucket': 'udagram-zar-dev',
   'url': 'http://localhost:8100',
   'jwt': {
-    'secret': hello,
+    'secret': 'hello',
   },
 };
